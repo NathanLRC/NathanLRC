@@ -1,4 +1,4 @@
-- Nome:Nathan Lucas Ramalho Cazado!
+- Nome: Nathan Lucas Ramalho Cazado!
 - Idade: 20
   
 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Guarulhos.
