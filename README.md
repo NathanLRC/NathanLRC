@@ -1,9 +1,9 @@
-- Nome: Nathan Lucas Ramalho Cazado!
+- Nome: Nathan Lucas Ramalho Cazado
 - Idade: 20
   
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Guarulhos.
+Formado em Análise e Desenvolvimento de Sistemas pela Fatec Guarulhos
 
-No momento estou estudando com foco maior em JAVA!
+No momento, estudando sobre recursos de automação, cloud e infra.
 
 <!---
 NathanLRC/NathanLRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
