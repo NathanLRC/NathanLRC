@@ -24,5 +24,5 @@ Meu nome é **Nathan Lucas Ramalho Cazado**.
 
 Tenho interesse em aprender continuamente, aprimorar minhas habilidades e contribuir com soluções eficientes para ambientes de TI.
 
-Contato: nathanlucasramalho@gmail.com
+Contato: nathanlucasramalho@gmail.com  
 Meu perfil no [LinkedIn](linkedin.com/in/nathancazado)
