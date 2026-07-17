@@ -22,4 +22,7 @@ Meu nome é **Nathan Lucas Ramalho Cazado**.
 * Infraestrutura de TI;
 * Ferramentas e boas práticas para administração de sistemas.
 
-🚀 Tenho interesse em aprender continuamente, aprimorar minhas habilidades e contribuir com soluções eficientes para ambientes de TI.
+Tenho interesse em aprender continuamente, aprimorar minhas habilidades e contribuir com soluções eficientes para ambientes de TI.
+
+Contato: nathanlucasramalho@gmail.com
+Meu perfil no [LinkedIn](linkedin.com/in/nathancazado)
